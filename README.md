@@ -1,1 +1,1 @@
-This is read me file on software dev
+This is read me file on software
