@@ -1,2 +1,2 @@
-#!/bin/baah
-ls
+#!/bin/bash >
+ls >>
